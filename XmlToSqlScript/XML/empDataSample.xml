@@ -1,0 +1,19 @@
+<ser-root:getEmpDetailsV2Response xmlns:ser-root="http://VMWMTST01.gpo.gov/GPOHumanResources.Common.services:getEmpDetailsV2_WSD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<status>true</status>
+	<message xsi:nil="true"/>
+	<empDataList>
+		<payRollNo>10360</payRollNo>
+		<firstName>ERIC</firstName>
+		<lastName>ABBEY</lastName>
+		<middleName>RAYNARD</middleName>
+		<costCode>3400</costCode>
+		<officeTelephoneExt xsi:nil="true"/>
+		<mailStop>732 North Capitol Street, NW</mailStop>
+		<federalServiceYears>5</federalServiceYears>
+		<federalServiceMonths>7</federalServiceMonths>
+		<GPOServiceYears>0</GPOServiceYears>
+		<GPOServiceMonths>6</GPOServiceMonths>
+		<supervisor>09015</supervisor>
+		<managingDirector>19480</managingDirector>
+	</empDataList>
+</ser-root:getEmpDetailsV2Response>
